@@ -1,9 +1,10 @@
 {
-  "name": "react-automata-v4",
+  "name": "react-state-machine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
+    "react-automata": "^4.0.4",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.0"
   },
@@ -27,5 +28,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "react-test-renderer": "^16.8.6"
   }
 }
